@@ -1,4 +1,4 @@
-# PROJETO
+# PROJETO FINALIZADO
 
 ## Funcionamento e Tecnologias
 <p>O Projeto foi desenvolvido com o propósito de exibir um medidor de temperatura em tempo real.</p>
